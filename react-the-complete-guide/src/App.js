@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1>React app</h1>
       <Button variant="success">Submit</Button>
+      <Button variant="danger">Danger</Button>
     </div>
   );
 }
